@@ -1,0 +1,13 @@
+{
+  "applications": [
+    {
+      "name": "Example website",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Local API health endpoint",
+      "url": "http://localhost:8000/health"
+    }
+  ]
+}
+
